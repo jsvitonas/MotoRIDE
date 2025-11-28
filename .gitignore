@@ -1,0 +1,14 @@
+# Dependencias (si usas npm a futuro)
+node_modules/
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
